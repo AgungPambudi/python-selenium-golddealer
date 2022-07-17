@@ -1,7 +1,7 @@
 #author          : Agung Pambudi
 #email           : mail@agungpambudi.com
 #linkedin        : http://linkedin.com/in/agungpambudi
-#version         : 0.4
+#version         : 0.5
 #
 #
 #==============================================================================
